@@ -1,5 +1,8 @@
 # awesome-contributions
-Fork by crinny: Python 3 support, code cleanup, Windows fix
+### Fork features:
+* Python 3 support
+* Сode cleanup and refactor
+* Works normally on Windows
 
 Make your GitHub's contributions viewer awesome!
 
