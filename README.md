@@ -1,4 +1,6 @@
 # awesome-contributions
+Fork by crinny: Python 3 support, code cleanup, Windows fix
+
 Make your GitHub's contributions viewer awesome!
 
 With this simple python script you can make your contributions viewer look however you want:
@@ -11,7 +13,7 @@ You can use any image, it will be grayscaled and converted to commits for you:
 
 # Requirements
 
-If you don't have pip, `apt-get install python-pip`
+If you don't have pip, install it
 
 The script uses the Python Image Library (PIL)
 ```
@@ -22,10 +24,10 @@ pip install pillow
 
 * Clone **this repository** [it doesn't work on forks](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/):
 <pre>
-git clone https://github.com/twinone/awesome-contributions
+git clone https://github.com/crinny/awesome-contributions
 cd awesome-contributions
 </pre>
-* Create a new empty github repository yourself on github, called `awesome-contributions`
+* Create a new empty github repository yourself on github, called `awesome-contributions` (doesn't really matter how you will call it)
 * Add your repository as a remote:
 <pre>
 git remote add github https://github.com/<b>[YourUser]</b>/awesome-contributions
