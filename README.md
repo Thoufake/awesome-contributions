@@ -16,9 +16,9 @@ You can use any image, it will be grayscaled and converted to commits for you:
 
 # Requirements
 
-If you don't have pip, install it
+If you don't have [Python](http://python.org/downloads/), install it
 
-The script uses the Python Image Library (PIL)
+The script uses the Python Image Library (PIL), to install run the following command:
 ```
 pip install pillow
 ```
